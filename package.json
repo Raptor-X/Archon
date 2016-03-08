@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Archon Node Environment",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^1.4.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Raptor-X/Archon"
+}
